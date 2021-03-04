@@ -67,7 +67,7 @@ function AddTodo(props) {
     let data = {
       name: todo.name
     }
-    axios,post('/api/v1/todos'. data)
+    axios.post('/api/v1/todos', data)
     .then(res => {
       setTodo({
         id: res.data.id,
