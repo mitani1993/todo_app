@@ -1,24 +1,4 @@
 # README
+- Ruby on RailsとReactを使用してのTodoアプリのクローン
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img width="1114" alt="475c997f19bf6c186fc8fba703e01033" src="https://user-images.githubusercontent.com/69582233/109901879-182ab200-7cdd-11eb-958b-c2038bce16ad.png">
